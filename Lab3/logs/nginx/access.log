@@ -1,0 +1,4 @@
+172.19.0.1 - - [25/May/2023:20:19:49 +0000] "GET /wpad.dat HTTP/1.1" 404 555 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" "-"
+172.19.0.1 - - [25/May/2023:20:19:57 +0000] "GET /wpad.dat HTTP/1.1" 404 555 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" "-"
+172.19.0.1 - - [25/May/2023:20:21:14 +0000] "GET /wpad.dat HTTP/1.1" 404 153 "-" "WinHttp-Autoproxy-Service/5.1" "-"
+172.20.0.1 - - [25/May/2023:20:31:14 +0000] "GET /wpad.dat HTTP/1.1" 404 153 "-" "WinHttp-Autoproxy-Service/5.1" "-"
