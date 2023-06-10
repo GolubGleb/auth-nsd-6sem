@@ -8,7 +8,7 @@ Tyvan Maxim BISO-02-20
 
 ## Ход выполнения практической работы
 
-1. Был создан репозиторий glebgolub.github.io
+1. Был создан репозиторий golubgleb.github.io
 2. Был создан проект Quarto Blog в Visual Studio Code
 3. Были созданы посты и отредактированна вкладка Who?
 
