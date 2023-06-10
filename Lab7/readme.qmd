@@ -1,0 +1,29 @@
+---
+title: "Создание Static Web Page"
+author: Tyvan Maxim BISO-02-20
+format:
+    md:
+        output-file: README.md
+engine: knitr
+---
+# Создание Static Web Page
+
+Tyvan Maxim BISO-02-20
+
+## Цель работы
+
+1. Изучить способы создания статических веб-страниц с помощью Quarto
+
+## Ход выполнения практической работы
+
+1. Был создан репозиторий glebgolub.github.io
+2. Был создан проект Quarto Blog в Visual Studio Code
+3. Были созданы посты и отредактированна вкладка Who?
+
+## Результат
+
+Был создан сайт с использованием Quarto и Github Pages: [Ссылка](https://golubgleb.github.io/)
+
+## Вывод
+
+Были изучены методы создания статических веб-страниц с помощью Quarto и Github Pages.
